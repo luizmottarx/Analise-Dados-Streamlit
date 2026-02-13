@@ -1,0 +1,8 @@
+seaborn
+matplotlib.pyplot
+pandas
+streamlit
+plotly
+plotly.graph_objects
+numpy
+random
