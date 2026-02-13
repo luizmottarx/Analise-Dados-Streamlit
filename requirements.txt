@@ -1,8 +1,7 @@
-seaborn
-matplotlib
-pandas
 streamlit
+pandas
 plotly
 numpy
-random
-
+matplotlib
+seaborn
+openpyxl
