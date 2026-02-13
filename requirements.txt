@@ -3,7 +3,6 @@ matplotlib
 pandas
 streamlit
 plotly
-plotly
 numpy
-
 random
+
